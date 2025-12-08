@@ -38,7 +38,11 @@ main{padding:20px}
 <main>
   <div id="lista" class="grid">Carregando produtos...</div>
 </main>
-<div class="footer">Suba <code>index.html</code>, <code>produtos.json</code> e imagens no mesmo diretório do GitHub Pages. Defina <code>API_BASE</code> com sua URL da Vercel.</div>
+<div class="foote"</div>
+
+<script>
+// === CONFIGURAR ===
+const API_BASE = 'httb Pages. Defina <code>API_BASE</code> com sua URL da Vercel.</div>
 
 <script>
 // === CONFIGURAR ===
@@ -96,7 +100,7 @@ function makeCard(p){
   el.setAttribute('data-cat',p.categoria||'');
 
   el.innerHTML = `
-    <img class="thumb" src="imagem/${p.img || 'placeholder.png'}" alt="${escape(p.nome)}">
+    <img class="thumb" src="img/${p.img || 'placeholder.png'}" alt="${escape(p.nome)}">
     <div>
       <h3>${escape(p.nome)}</h3>
       <div class="muted">${escape(p.origem||'')}</div>
