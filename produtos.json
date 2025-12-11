@@ -3,6 +3,7 @@
         "id": "000000000",
         "origem": "Shopee",
         "nome": "Regulador de tensão ajustável LM2596 Step Down 3A",
+        "categoria": "eletronicos",
         "img": "regulador lm2596.png",
         "link":" https://s.shopee.com.br/40ZI2rSUoz"
     },
@@ -10,6 +11,7 @@
         "id": "000000001",
         "origem": "Mercado Livre",
         "nome": "Regulador de Tensão ajustável LM2596 Step Down 3A",
+        "categoria": "eletronicos",
         "img": "regulador lm2596.png",
         "link": "https://mercadolivre.com/sec/1mGeq4m"
     },
@@ -17,6 +19,7 @@
         "id": "000000002",
         "origem": "Shopee",
         "nome": "Regulador de tensão ajustável LM2596 Step Down 3A com display",
+        "categoria": "eletronicos",
         "img": "regulador lm2596 com display.png",
         "link":" https://s.shopee.com.br/50RvWNAh2C"
     },
@@ -24,6 +27,7 @@
         "id": "000000003",
         "origem": "Mercado Livre",
         "nome": "Regulador de tensão ajustável LM2596 Step Down 3A com display",
+        "categoria": "eletronicos",
         "img": "regulador lm2596 com display.png",
         "link":"https://mercadolivre.com/sec/1RhaAF6"
     },
